@@ -1,4 +1,4 @@
-# PBL_OnlineBookstoreWebsite
+# Inkwell
  
 This is an online bookstore website created to ease selling and buying of books for college students. It is made for on-campus exchange of books without any middle man. 
 
